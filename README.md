@@ -1,16 +1,15 @@
-## Hi there 👋
+Alan Henrique Franceschi
 
-<!--
-**alanhfranceschi/alanhfranceschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+15y
 
-Here are some ideas to get you started:
+Ipuaçu sc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Escola 1/3
+
+Eu gosto do agro 🌱 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanhfranceschi&show_icons=true&theme=tokyonight)
+
+Gosto de jogar farming 17 :tractor:
+
+Gosto de ajudar meus pais em casa
